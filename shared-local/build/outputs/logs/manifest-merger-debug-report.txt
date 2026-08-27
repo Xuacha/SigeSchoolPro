@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ecest\OneDrive\SigeSchoolpro\shared-local\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11681697454793443378.xml:2:13-83
+INJECTED from C:\Users\ecest\OneDrive\SigeSchoolpro\shared-local\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11681697454793443378.xml:2:13-83
+	package
+		INJECTED from C:\Users\ecest\OneDrive\SigeSchoolpro\shared-local\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11681697454793443378.xml
+	xmlns:android
+		ADDED from C:\Users\ecest\OneDrive\SigeSchoolpro\shared-local\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11681697454793443378.xml:2:23-81
+uses-sdk
+INJECTED from C:\Users\ecest\OneDrive\SigeSchoolpro\shared-local\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11681697454793443378.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ecest\OneDrive\SigeSchoolpro\shared-local\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11681697454793443378.xml
+INJECTED from C:\Users\ecest\OneDrive\SigeSchoolpro\shared-local\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11681697454793443378.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ecest\OneDrive\SigeSchoolpro\shared-local\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11681697454793443378.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ecest\OneDrive\SigeSchoolpro\shared-local\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11681697454793443378.xml

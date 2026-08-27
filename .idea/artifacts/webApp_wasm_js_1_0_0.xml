@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="webApp-wasm-js-1.0.0">
+    <output-path>$PROJECT_DIR$/webApp/build/libs</output-path>
+    <root id="archive" name="webApp-wasm-js-1.0.0.jar">
+      <element id="module-output" name="SigeSchoolPro.webApp.wasmJsMain" />
+    </root>
+  </artifact>
+</component>

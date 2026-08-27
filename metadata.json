@@ -1,0 +1,6 @@
+{
+  "name": "AuditPro",
+  "description": "Herramienta de auditoría de seguridad, errores de compilación y estabilidad para proyectos Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

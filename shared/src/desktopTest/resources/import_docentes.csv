@@ -1,0 +1,3 @@
+nombre_docente,apellido_docente,dni_docente,correo_docente,telefono_docente,escalafon,especialidad,rol
+Juan,Perez,12345678,juan.perez@escuela.com,3001112233,PROFESIONAL,Matematicas,DOCENTE
+Maria,Lopez,87654321,maria.lopez@escuela.com,3004445566,ESPECIALISTA,Lenguaje,DOCENTE
